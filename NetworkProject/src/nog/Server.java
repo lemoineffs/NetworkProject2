@@ -13,7 +13,9 @@ public class Server {
         public static void main(String[] args) throws IOException {
                 boolean listening = true;
                 ServerSocket serverSocket = null;
-       
+       /*****************
+        * JAG LA TILL DEN HÄR KOMMENTAREN FÖR ATT TESTA GIT.
+        */
         try {
             serverSocket = new ServerSocket(5555);
         } catch (IOException e) {
