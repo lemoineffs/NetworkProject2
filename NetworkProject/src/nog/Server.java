@@ -15,6 +15,8 @@ public class Server {
                 ServerSocket serverSocket = null;
        /*****************
         * JAG LA TILL DEN HÄR KOMMENTAREN FÖR ATT TESTA GIT.ghjkyuh
+        * 
+        * asdasdasd
         */
         try {
             serverSocket = new ServerSocket(5555);
